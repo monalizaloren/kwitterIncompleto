@@ -49,7 +49,6 @@
   
   }
   
-  function logout() {
 // Repita a função logout
-  }
+  
   
